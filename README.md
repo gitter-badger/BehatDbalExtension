@@ -9,6 +9,8 @@
 Behat Dbal Extension
 ==============
 
+[![Join the chat at https://gitter.im/cherrytech/BehatDbalExtension](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cherrytech/BehatDbalExtension?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Installing extension
 
 The easiest way to install is by using [Composer](https://getcomposer.org):
